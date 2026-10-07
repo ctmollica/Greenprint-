@@ -5,7 +5,6 @@
 Greenprint is a Firefox extension that shows the estimated carbon footprint of products while you shop, and suggests a lower-carbon alternative like buying refurbished or secondhand.
 
 ![license](https://img.shields.io/badge/license-MIT-green)
-![status](https://img.shields.io/badge/status-hackathon%20prototype-orange)
 
 <!-- Add a screenshot: docs/screenshot.png -->
 <!-- ![Greenprint badge on a product page](docs/screenshot.png) -->
