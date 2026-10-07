@@ -86,7 +86,7 @@ Code style: plain JavaScript, no build step, no external network requests, and w
 
 ## Code of Conduct
 
-Be respectful, patient, and constructive. Welcome newcomers, assume good intent, and give and accept feedback gracefully. Harassment, discrimination, and personal attacks are not tolerated. Maintainers may remove content or contributors that violate these standards. Report problems to **YOUR_EMAIL@example.com**.
+Be respectful, patient, and constructive. Welcome newcomers, assume good intent, and give and accept feedback gracefully. Harassment, discrimination, and personal attacks are not tolerated. Maintainers may remove content or contributors that violate these standards. Report problems to **ctmollica@gmail.com**.
 
 Adapted from the [Contributor Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
 
