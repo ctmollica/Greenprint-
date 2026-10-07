@@ -91,7 +91,7 @@ Adapted from the [Contributor Covenant 2.1](https://www.contributor-covenant.org
 
 ## Security
 
-If you find a security issue, please don't open a public issue. Email **YOUR_EMAIL@example.com** with details and steps to reproduce.
+If you find a security issue, please don't open a public issue. Email **ctmollica@gmail.com** with details and steps to reproduce.
 
 ## Privacy
 
